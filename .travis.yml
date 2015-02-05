@@ -13,4 +13,4 @@ rvm:
   - jruby-19mode
   - rbx-2
   
-build_image: shippable/minv2:beta
+#build_image: shippable/minv2:beta
